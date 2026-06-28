@@ -1,0 +1,149 @@
+name,online_order,book_table,rate,votes,approx_cost(for two people),listed_in(type),city,cuisine
+Jalsa,Yes,Yes,4.1/5,775,800,Buffet,Delhi,Chinese
+Spice Elephant,Yes,No,4.1/5,787,800,Buffet,Bangalore,Fast Food
+San Churro Cafe,Yes,No,3.8/5,918,800,Buffet,Pune,Chinese
+Addhuri Udupi Bhojana,No,No,3.7/5,88,300,Buffet,Chandigarh,Cafe
+Grand Village,No,No,3.8/5,166,600,Buffet,Chandigarh,Cafe
+Timepass Dinner,Yes,No,3.8/5,286,600,Buffet,Mumbai,North Indian
+Rosewood International Hotel - Bar & Restaurant,No,No,3.6/5,8,800,Buffet,Delhi,Street Food
+Onesta,Yes,Yes,4.6/5,2556,600,Cafes,Jaipur,Fast Food
+Penthouse Cafe,Yes,No,4.0/5,324,700,other,Delhi,Desserts
+Smacznego,Yes,No,4.2/5,504,550,Cafes,Lucknow,North Indian
+Village Café,Yes,No,4.1/5,402,500,Cafes,Chennai,South Indian
+Cafe Shuffle,Yes,Yes,4.2/5,150,600,Cafes,Bangalore,Fast Food
+The Coffee Shack,Yes,Yes,4.2/5,164,500,Cafes,Bangalore,Continental
+Caf-Eleven,No,No,4.0/5,424,450,Cafes,Delhi,Italian
+San Churro Cafe,Yes,No,3.8/5,918,800,Cafes,Chandigarh,North Indian
+Cafe Vivacity,Yes,No,3.8/5,90,650,Cafes,Chandigarh,Italian
+Catch-up-ino,Yes,No,3.9/5,133,800,Cafes,Jaipur,Street Food
+Kirthi's Biryani,Yes,No,3.8/5,144,700,Cafes,Lucknow,South Indian
+T3H Cafe,No,No,3.9/5,93,300,Cafes,Bangalore,South Indian
+360 Atoms Restaurant And Cafe,Yes,No,3.1/5,13,400,Cafes,Jaipur,Desserts
+The Vintage Cafe,Yes,No,3.0/5,62,400,Cafes,Chandigarh,South Indian
+Woodee Pizza,Yes,No,3.7/5,180,500,Cafes,Jaipur,Cafe
+Cafe Coffee Day,No,No,3.6/5,28,900,Cafes,Chennai,Chinese
+My Tea House,Yes,No,3.6/5,62,600,Cafes,Chandigarh,Chinese
+Hide Out Cafe,No,No,3.7/5,31,300,Cafes,Kolkata,Desserts
+CAFE NOVA,No,No,3.2/5,11,600,Cafes,Lucknow,Cafe
+Coffee Tindi,Yes,No,3.8/5,75,200,Cafes,Pune,Chinese
+Sea Green Cafe,No,No,3.3/5,4,500,Cafes,Bangalore,Continental
+Cuppa,No,No,3.3/5,23,550,Cafes,Mumbai,Cafe
+Srinathji's Cafe,No,No,3.8/5,148,550,Cafes,Chennai,Street Food
+Redberrys,Yes,No,4.0/5,219,600,Cafes,Hyderabad,Biryani
+Foodiction,Yes,No,2.8/5,506,500,other,Pune,Italian
+Sweet Truth,Yes,No,3.9/5,35,500,Dining,Mumbai,Cafe
+Ovenstory Pizza,Yes,No,3.9/5,172,750,Dining,Chandigarh,Italian
+Faasos,Yes,No,4.2/5,415,500,other,Hyderabad,Continental
+Behrouz Biryani,Yes,No,3.9/5,230,650,Dining,Delhi,Biryani
+Fast And Fresh,Yes,No,2.8/5,91,400,Dining,Delhi,Fast Food
+Szechuan Dragon,Yes,No,4.2/5,1647,600,Dining,Chennai,Desserts
+Empire Restaurant,Yes,No,4.4/5,4884,750,other,Delhi,Cafe
+Maruthi Davangere Benne Dosa,Yes,No,4.0/5,17,150,Dining,Hyderabad,Desserts
+Chaatimes,Yes,No,3.8/5,133,200,Dining,Hyderabad,South Indian
+Havyaka Mess,No,No,3.9/5,28,300,Dining,Lucknow,Italian
+McDonald's,Yes,No,3.9/5,286,500,Dining,Pune,Italian
+Domino's Pizza,Yes,No,3.9/5,540,800,Dining,Bangalore,South Indian
+Onesta,Yes,Yes,4.6/5,2556,600,other,Kolkata,Fast Food
+Hotboxit,No,No,3.8/5,36,400,Dining,Jaipur,North Indian
+Kitchen Garden,Yes,No,3.6/5,244,300,Dining,Delhi,Street Food
+Recipe,Yes,No,4.0/5,804,450,Dining,Chennai,Cafe
+Beijing Bites,Yes,No,3.7/5,679,850,Dining,Delhi,Italian
+Tasty Bytes,Yes,No,3.1/5,245,300,Dining,Jaipur,Street Food
+Petoo,No,No,3.7/5,21,450,Dining,Pune,Italian
+Shree Cool Point,Yes,No,4.1/5,28,150,Dining,Lucknow,North Indian
+Corner House Ice Cream,No,No,4.3/5,345,400,Dining,Hyderabad,South Indian
+Biryanis And More,Yes,No,4.0/5,618,750,Dining,Lucknow,North Indian
+Roving Feast,No,No,4.0/5,1047,450,Dining,Chandigarh,Italian
+FreshMenu,Yes,No,3.9/5,627,450,Dining,Delhi,South Indian
+Banashankari Donne Biriyani,Yes,No,3.8/5,104,300,Dining,Bangalore,North Indian
+Wamama,Yes,Yes,4.2/5,354,800,other,Chandigarh,Fast Food
+Five Star Chicken,No,No,3.6/5,55,200,Dining,Pune,South Indian
+XO Belgian Waffle,Yes,No,3.7/5,17,400,Dining,Delhi,Cafe
+Peppy Peppers,No,No,4.2/5,244,800,other,Chandigarh,Italian
+Goa 0 Km,Yes,Yes,3.6/5,163,800,Dining,Delhi,Continental
+Chinese Kitchen,Yes,No,3.8/5,58,150,Dining,Chennai,Desserts
+Jeet Restaurant,No,Yes,4.0/5,808,850,Dining,Pune,Italian
+Cake of the Day,No,No,3.7/5,78,150,Dining,Kolkata,Cafe
+Kabab Magic,Yes,No,4.1/5,1720,400,Dining,Hyderabad,Chinese
+Namma Brahmin's Idli,Yes,No,3.6/5,34,100,Dining,Mumbai,Street Food
+Gustoes Beer House,No,No,4.1/5,868,700,Dining,Hyderabad,Street Food
+Sugar Rush,No,No,3.8/5,39,300,Dining,Hyderabad,Desserts
+Burger King,Yes,No,3.2/5,71,600,Dining,Chandigarh,Italian
+The Good Bowl,Yes,No,3.6/5,6,500,Dining,Pune,Desserts
+The Biryani Cafe,No,No,4.1/5,520,300,Dining,Delhi,Biryani
+Spicy Tandoor,No,No,4.1/5,0,150,Dining,Lucknow,Italian
+LSD Cafe,No,No,2.9/5,84,700,other,Mumbai,South Indian
+Rolls On Wheels,No,No,3.6/5,299,300,Dining,Jaipur,South Indian
+Om Sri Vinayaka Chats,No,No,3.6/5,0,500,Dining,Chandigarh,Biryani
+Sri Guru Kottureshwara Davangere Benne Dosa,Yes,No,4.1/5,558,150,Dining,Mumbai,Fast Food
+Devanna Dum Biriyani Centre,Yes,No,3.6/5,28,300,Dining,Kolkata,Biryani
+Kolbeh,No,No,3.7/5,22,500,Dining,Chennai,Biryani
+Upahar Sagar,No,No,3.8/5,39,350,Dining,Pune,Desserts
+Kadalu Sea Food Restaurant,Yes,No,3.8/5,153,500,Dining,Jaipur,North Indian
+Frozen Bottle,Yes,No,4.2/5,146,400,Dining,Chandigarh,South Indian
+Parimala Sweets,No,No,3.5/5,14,200,Dining,Hyderabad,North Indian
+Vaishali Deluxe,No,No,3.8/5,42,700,Dining,Bangalore,Biryani
+Chill Out,No,No,3.8/5,0,100,Dining,Chandigarh,Fast Food
+The Big O Bakes,No,No,4.0/5,66,300,Dining,Bangalore,South Indian
+Meghana Foods,Yes,No,4.4/5,4401,600,Dining,Hyderabad,Italian
+Krishna Sagar,No,No,3.5/5,31,200,Dining,Chennai,Italian
+Dessert Rose,No,No,3.5/5,7,500,Dining,Pune,Italian
+Chickpet Donne Biryani House,No,No,3.7/5,21,250,Dining,Delhi,Cafe
+Me And My Cake,No,No,3.7/5,0,500,Dining,Chandigarh,Desserts
+Sunsadm,No,No,3.7/5,0,400,Dining,Lucknow,Chinese
+Annapooraneshwari Mess,No,No,3.7/5,0,200,Dining,Hyderabad,Biryani
+Thanco's Natural Ice Creams,No,No,3.2/5,9,300,Dining,Chandigarh,Chinese
+Nandhini Deluxe,No,No,2.6/5,283,600,Dining,Kolkata,Continental
+Vi Ra's Bar and Restaurant,No,No,3.3/5,62,800,Dining,Chennai,Desserts
+Kaggis,No,No,3.8/5,64,250,Dining,Kolkata,Italian
+Ayda Persian Kitchen,No,No,3.7/5,39,950,Dining,Mumbai,South Indian
+Chatar Patar,No,No,3.7/5,65,300,Dining,Pune,Desserts
+Polar Bear,Yes,No,3.8/5,71,400,Dining,Mumbai,Cafe
+Kidambi's Kitchen,No,No,3.5/5,52,300,Dining,Chandigarh,South Indian
+Mane Thindi,No,No,3.7/5,130,200,Dining,Jaipur,North Indian
+Kotian Karavali Restaurant,No,No,3.5/5,10,300,Dining,Jaipur,Cafe
+Floured-Baked With Love,No,No,3.8 /5,45,400,Dining,Pune,North Indian
+CAFE NOVA,No,No,3.2/5,11,600,Dining,Lucknow,South Indian
+Cakes & Slices,No,No,3.5/5,13,300,Dining,Chennai,Italian
+Spice 9,No,No,3.4/5,8,300,Dining,Lucknow,Chinese
+Coffee Shopee,No,No,3.4/5,0,250,Dining,Chennai,Biryani
+Naveen Kabab & Biriyani Mane,No,No,3.2/5,9,300,Dining,Hyderabad,Desserts
+Katriguppe Donne Biryani,No,No,3.2/5,4,300,Dining,Chandigarh,Desserts
+Hari Super Sandwich,No,No,3.2/5,0,200,Dining,Mumbai,Italian
+Atithi Point Ande Ka Funda,No,No,3.1/5,29,150,Dining,Jaipur,Biryani
+Just Bake,No,No,3.4/5,8,400,Dining,Kolkata,North Indian
+Dharwad Line Bazaar Mishra Pedha,No,No,3.4/5,0,150,Dining,Delhi,Chinese
+Cake Bite,No,No,3.4/5,0,300,Dining,Bangalore,Biryani
+Aarush's Food Plaza,No,No,3.4/5,0,200,Dining,Delhi,North Indian
+Wood Stove,No,No,3.4/5,0,150,Dining,Mumbai,Biryani
+Kulfi & More,No,No,3.4/5,0,150,Dining,Mumbai,Continental
+Kannadigas Karavali,No,No,3.4/5,0,250,Dining,Chennai,Desserts
+K27 - The Pub,No,No,3.1/5,30,900,Dining,Lucknow,Continental
+Bengaluru Coffee House,Yes,No,4.1/5,201,300,Dining,Delhi,Biryani
+New Mangalore Lunch Home,No,No,3.3/5,7,200,Dining,Chennai,Cafe
+Coffee Bytes,No,No,3.1/5,6,100,Dining,Chennai,Desserts
+Parjanya Chat Zone,No,No,3.3/5,17,200,Dining,Lucknow,Chinese
+Kwality Wall's Swirl's Happiness Station,No,No,2.9/5,25,200,Dining,Kolkata,Italian
+Soms Kitchen & Bakes,No,No,2.9/5,0,400,Dining,Jaipur,Continental
+Banashankari Nati Style,No,No,2.9/5,0,350,Dining,Pune,Italian
+Ruchi Maayaka,No,No,3.3/5,8,100,Dining,Jaipur,North Indian
+Mohitesh Hut Roll,No,No,3.3/5,0,150,Dining,Bangalore,Street Food
+Sri Basaveshwar Jolada Rotti Oota,No,No,3.4/5,0,150,Dining,Delhi,Cafe
+Roll Magic Fast Food,No,No,3.4/5,0,200,Dining,Jaipur,North Indian
+Foodlieious Multi Cuisine,No,No,3.4/5,0,100,Dining,Pune,Fast Food
+Thanishka Nati And Karavali Style,No,No,3.1/5,0,400,Dining,Hyderabad,North Indian
+Swathi Cool Point,No,No,4.1/5,0,200,Dining,Delhi,North Indian
+Kaumudis Juoice,No,No,3.3/5,0,150,Dining,Pune,Street Food
+Amma - Manae,No,No,3.1/5,0,400,Dining,Chennai,Desserts
+Sri Sai Tiffannies,No,No,3.3/5,0,150,Dining,Mumbai,Cafe
+Hotel Andhra Speices,No,No,2.9/5,0,250,Dining,Kolkata,Cafe
+Sri Murari Family Restaurant,No,No,2.9/5,0,250,Dining,Bangalore,Chinese
+Aramane Donne Biriyani,No,No,2.9/5,0,150,Dining,Pune,North Indian
+Darkolates,No,No,3.3/5,0,200,Dining,Jaipur,Cafe
+Swaada Healthy Kitchen,No,No,3.3/5,0,350,Dining,Mumbai,South Indian
+Gawdaru Mane Beriyani,No,No,3.3/5,0,300,Dining,Jaipur,Chinese
+Melting Melodies,No,No,3.3/5,0,100,Dining,Delhi,South Indian
+New Indraprasta,No,No,3.3/5,0,150,Dining,Pune,Street Food
+Anna Kuteera,Yes,No,4.0/5,771,450,Dining,Jaipur,South Indian
+Darbar,No,No,3.0/5,98,800,Dining,Lucknow,Italian
+Vijayalakshmi,Yes,No,3.9/5,47,200,Dining,Chandigarh,Biryani
